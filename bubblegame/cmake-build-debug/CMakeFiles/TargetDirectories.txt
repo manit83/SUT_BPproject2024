@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/bubblegame/cmake-build-debug/CMakeFiles/bubblegame.dir
+C:/Users/ASUS/CLionProjects/bubblegame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/bubblegame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
